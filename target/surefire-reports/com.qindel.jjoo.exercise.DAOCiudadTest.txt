@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.qindel.jjoo.exercise.DAOCiudadTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.266 s <<< FAILURE! - in com.qindel.jjoo.exercise.DAOCiudadTest
+initializationError(com.qindel.jjoo.exercise.DAOCiudadTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
